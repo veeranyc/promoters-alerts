@@ -1,7 +1,21 @@
 [
   {
+    "slug": "mtar-technologies-limited-promoter-sell-2026-05-21",
+    "title": "MTAR TECHNOLOGIES LIMITED Promoter Sells ₹79 Cr — First Ever Transaction",
+    "company": "MTAR TECHNOLOGIES LIMITED",
+    "symbol": "MTARTECH",
+    "action": "sell",
+    "amount_cr": 79.1003,
+    "trade_date": "2026-05-21",
+    "trade_price": 7910.03,
+    "alert_price": 8075.5,
+    "published_at": "2026-05-24T06:00:17.478081+05:30",
+    "pct_return": null,
+    "days_elapsed": null
+  },
+  {
     "slug": "vishwas-agri-seeds-limited-promoter-buy-2026-04-22",
-    "title": "Vishwas Agri Seeds Limited Promoter Bought in April \u2014 Stock Up 199% in 28 Days",
+    "title": "Vishwas Agri Seeds Limited Promoter Bought in April — Stock Up 199% in 28 Days",
     "company": "Vishwas Agri Seeds Limited",
     "symbol": "VISHWAS",
     "action": "buy",
@@ -16,7 +30,7 @@
   },
   {
     "slug": "aqylon-nexus-limited-promoter-sell-2026-04-24",
-    "title": "Aqylon Nexus Limited Promoter Sold in April \u2014 Stock Up 18% in 26 Days",
+    "title": "Aqylon Nexus Limited Promoter Sold in April — Stock Up 18% in 26 Days",
     "company": "Aqylon Nexus Limited",
     "symbol": "AQYLON",
     "action": "sell",
@@ -30,7 +44,7 @@
   },
   {
     "slug": "paisalo-digital-limited-promoter-buy-2026-05-20",
-    "title": "PAISALO DIGITAL LIMITED Promoter Buys \u20b96 Cr Worth of Shares",
+    "title": "PAISALO DIGITAL LIMITED Promoter Buys ₹6 Cr Worth of Shares",
     "company": "PAISALO DIGITAL LIMITED",
     "symbol": "PAISALO",
     "action": "buy",
