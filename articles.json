@@ -10,8 +10,8 @@
     "trade_price": 7910.03,
     "alert_price": 8075.5,
     "published_at": "2026-05-24T06:00:17.478081+05:30",
-    "pct_return": 2.09,
-    "days_elapsed": 4
+    "pct_return": NaN,
+    "days_elapsed": 5
   },
   {
     "slug": "paisalo-digital-limited-promoter-buy-2026-05-20",
@@ -23,7 +23,7 @@
     "trade_date": "2026-05-20",
     "published_at": "2026-05-21T11:44:20.168371+05:30",
     "trade_price": 47.99,
-    "pct_return": 4.86,
-    "days_elapsed": 5
+    "pct_return": NaN,
+    "days_elapsed": 6
   }
 ]
