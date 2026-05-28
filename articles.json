@@ -1,7 +1,21 @@
 [
   {
+    "slug": "tata-consumer-products-limited-promoter-sell-2026-05-27",
+    "title": "Tata Consumer Products Limited Promoter Sells ₹3 Cr — First Ever Transaction",
+    "company": "Tata Consumer Products Limited",
+    "symbol": "TATACONSUM",
+    "action": "sell",
+    "amount_cr": 2.8435,
+    "trade_date": "2026-05-27",
+    "trade_price": 1184.8,
+    "alert_price": 1204.6,
+    "published_at": "2026-05-28T06:00:24.685850+05:30",
+    "pct_return": null,
+    "days_elapsed": null
+  },
+  {
     "slug": "inox-india-limited-promoter-sell-2026-05-22",
-    "title": "INOX INDIA LIMITED Promoter Sells \u20b92 Cr \u2014 First Ever Transaction",
+    "title": "INOX INDIA LIMITED Promoter Sells ₹2 Cr — First Ever Transaction",
     "company": "INOX INDIA LIMITED",
     "symbol": "INOXINDIA",
     "action": "sell",
@@ -15,7 +29,7 @@
   },
   {
     "slug": "alembic-pharmaceuticals-limited-promoter-buy-2026-05-22",
-    "title": "Alembic Pharmaceuticals Limited Promoter Buys \u20b95 Cr \u2014 First Ever Transaction",
+    "title": "Alembic Pharmaceuticals Limited Promoter Buys ₹5 Cr — First Ever Transaction",
     "company": "Alembic Pharmaceuticals Limited",
     "symbol": "APLLTD",
     "action": "buy",
@@ -29,7 +43,7 @@
   },
   {
     "slug": "mtar-technologies-limited-promoter-sell-2026-05-21",
-    "title": "MTAR TECHNOLOGIES LIMITED Promoter Sells \u20b979 Cr \u2014 First Ever Transaction",
+    "title": "MTAR TECHNOLOGIES LIMITED Promoter Sells ₹79 Cr — First Ever Transaction",
     "company": "MTAR TECHNOLOGIES LIMITED",
     "symbol": "MTARTECH",
     "action": "sell",
@@ -44,7 +58,7 @@
   },
   {
     "slug": "paisalo-digital-limited-promoter-buy-2026-05-20",
-    "title": "PAISALO DIGITAL LIMITED Promoter Buys \u20b96 Cr Worth of Shares",
+    "title": "PAISALO DIGITAL LIMITED Promoter Buys ₹6 Cr Worth of Shares",
     "company": "PAISALO DIGITAL LIMITED",
     "symbol": "PAISALO",
     "action": "buy",
