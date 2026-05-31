@@ -10,8 +10,8 @@
     "trade_price": 509.34,
     "alert_price": 511.85,
     "published_at": "2026-05-29T06:00:00.392270+05:30",
-    "pct_return": NaN,
-    "days_elapsed": 3
+    "pct_return": -0.65,
+    "days_elapsed": 4
   },
   {
     "slug": "tata-consumer-products-limited-promoter-sell-2026-05-27",
@@ -24,8 +24,8 @@
     "trade_price": 1184.8,
     "alert_price": 1204.6,
     "published_at": "2026-05-28T06:00:24.685850+05:30",
-    "pct_return": NaN,
-    "days_elapsed": 3
+    "pct_return": -0.54,
+    "days_elapsed": 4
   },
   {
     "slug": "inox-india-limited-promoter-sell-2026-05-22",
@@ -38,8 +38,8 @@
     "trade_price": 1456.57,
     "alert_price": 1488.1,
     "published_at": "2026-05-27T06:00:22.756167+05:30",
-    "pct_return": NaN,
-    "days_elapsed": 8,
+    "pct_return": 2.54,
+    "days_elapsed": 9,
     "t7_written": "2026-05-30"
   },
   {
@@ -53,8 +53,8 @@
     "trade_price": 757.97,
     "alert_price": 762.3,
     "published_at": "2026-05-26T06:00:17.446027+05:30",
-    "pct_return": NaN,
-    "days_elapsed": 8,
+    "pct_return": -2.89,
+    "days_elapsed": 9,
     "t7_written": "2026-05-30"
   },
   {
@@ -68,8 +68,8 @@
     "trade_price": 7910.03,
     "alert_price": 8075.5,
     "published_at": "2026-05-24T06:00:17.478081+05:30",
-    "pct_return": NaN,
-    "days_elapsed": 9,
+    "pct_return": -0.39,
+    "days_elapsed": 10,
     "t7_written": "2026-05-28"
   },
   {
@@ -82,8 +82,8 @@
     "trade_date": "2026-05-20",
     "published_at": "2026-05-21T11:44:20.168371+05:30",
     "trade_price": 47.99,
-    "pct_return": NaN,
-    "days_elapsed": 10,
+    "pct_return": 7.48,
+    "days_elapsed": 11,
     "t7_written": "2026-05-27"
   }
 ]
