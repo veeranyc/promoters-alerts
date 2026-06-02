@@ -13,9 +13,9 @@
   <h1>Virtual Portfolio</h1>
   <p class="sub">Hypothetical portfolio following every promoter BUY signal on this site &mdash; Rs.1L per position, 90-day hold, vs Nifty 50. Since 20 May 2026.</p>
 <div class="stat-row">
-  <div class="stat"><div class="stat-label">Portfolio Return</div><div class="stat-value up">+0.6%</div></div>
-  <div class="stat"><div class="stat-label">Nifty 50 Return</div><div class="stat-value down">-0.5%</div></div>
-  <div class="stat"><div class="stat-label">Alpha vs Nifty</div><div class="stat-value up">+1.0%</div></div>
+  <div class="stat"><div class="stat-label">Portfolio Return</div><div class="stat-value up">+0.8%</div></div>
+  <div class="stat"><div class="stat-label">Nifty 50 Return</div><div class="stat-value down">-1.2%</div></div>
+  <div class="stat"><div class="stat-label">Alpha vs Nifty</div><div class="stat-value up">+2.0%</div></div>
   <div class="stat"><div class="stat-label">Positions</div><div class="stat-value neutral">2 (2 open)</div></div>
 </div>
 <div class="chart-wrap">
@@ -25,9 +25,9 @@
 <script>
 new Chart(document.getElementById("navChart"),{
   type:"line",
-  data:{labels:["2026-05-22", "2026-05-23", "2026-05-24", "2026-05-25", "2026-05-26", "2026-05-27", "2026-05-28", "2026-05-29", "2026-05-30", "2026-05-31", "2026-06-01"],datasets:[
-    {label:"Promoter Signals",data:[2.03, 2.03, 2.03, 2.03, 0.56, -0.32, -0.49, -0.49, 0.57, 0.57, 0.57],borderColor:"#16a34a",backgroundColor:"rgba(22,163,74,0.07)",tension:0.3,pointRadius:0,borderWidth:2},
-    {label:"Nifty 50",data:[0.25, 0.25, 0.25, 0.25, 1.58, 1.08, 1.05, 1.05, -0.47, -0.47, -0.47],borderColor:"#94a3b8",backgroundColor:"rgba(148,163,184,0.05)",tension:0.3,pointRadius:0,borderWidth:1.5,borderDash:[4,3]}
+  data:{labels:["2026-05-22", "2026-05-23", "2026-05-24", "2026-05-25", "2026-05-26", "2026-05-27", "2026-05-28", "2026-05-29", "2026-05-30", "2026-05-31", "2026-06-01", "2026-06-02"],datasets:[
+    {label:"Promoter Signals",data:[2.03, 2.03, 2.03, 2.03, 0.56, -0.32, -0.49, -0.49, 0.57, 0.57, 0.57, 0.81],borderColor:"#16a34a",backgroundColor:"rgba(22,163,74,0.07)",tension:0.3,pointRadius:0,borderWidth:2},
+    {label:"Nifty 50",data:[0.25, 0.25, 0.25, 0.25, 1.58, 1.08, 1.05, 1.05, -0.47, -0.47, -0.47, -1.17],borderColor:"#94a3b8",backgroundColor:"rgba(148,163,184,0.05)",tension:0.3,pointRadius:0,borderWidth:1.5,borderDash:[4,3]}
   ]},
   options:{responsive:true,plugins:{legend:{position:"top",labels:{font:{size:12},boxWidth:14}},tooltip:{mode:"index",intersect:false}},scales:{y:{ticks:{callback:v=>v+"%"},grid:{color:"#f3f4f6"}},x:{ticks:{maxTicksLimit:8,maxRotation:0},grid:{display:false}}}}
 });
@@ -35,14 +35,14 @@ new Chart(document.getElementById("navChart"),{
 <h2>Open Positions</h2>
 <table>
 <tr><th>Symbol</th><th>Company</th><th>Entry Date</th><th>Entry Price</th><th>Current Price</th><th>Return</th><th>T+90 Exit</th></tr>
-<tr><td><a href='posts/paisalo-digital-limited-promoter-buy-2026-05-20.html' style='color:#1a1a1a;text-decoration:none;font-weight:500'>PAISALO</a></td><td style='color:#6b7280;font-size:.8rem'>PAISALO DIGITAL LIMITED</td><td>20 May 2026</td><td>Rs.49.32</td><td>Rs.51.58</td><td><span class="up">+4.6%</span></td><td style='color:#6b7280'>18 Aug 2026</td></tr>
-<tr><td><a href='posts/alembic-pharmaceuticals-limited-promoter-buy-2026-05-22.html' style='color:#1a1a1a;text-decoration:none;font-weight:500'>APLLTD</a></td><td style='color:#6b7280;font-size:.8rem'>Alembic Pharmaceuticals Limi</td><td>22 May 2026</td><td>Rs.762.30</td><td>Rs.736.10</td><td><span class="down">-3.4%</span></td><td style='color:#6b7280'>20 Aug 2026</td></tr>
+<tr><td><a href='posts/paisalo-digital-limited-promoter-buy-2026-05-20.html' style='color:#1a1a1a;text-decoration:none;font-weight:500'>PAISALO</a></td><td style='color:#6b7280;font-size:.8rem'>PAISALO DIGITAL LIMITED</td><td>20 May 2026</td><td>Rs.49.32</td><td>Rs.52.86</td><td><span class="up">+7.2%</span></td><td style='color:#6b7280'>18 Aug 2026</td></tr>
+<tr><td><a href='posts/alembic-pharmaceuticals-limited-promoter-buy-2026-05-22.html' style='color:#1a1a1a;text-decoration:none;font-weight:500'>APLLTD</a></td><td style='color:#6b7280;font-size:.8rem'>Alembic Pharmaceuticals Limi</td><td>22 May 2026</td><td>Rs.762.30</td><td>Rs.720.00</td><td><span class="down">-5.5%</span></td><td style='color:#6b7280'>20 Aug 2026</td></tr>
 </table>
   <div class="cta">
     Get real-time alerts the moment they're filed on NSE.<br>
     <a href="https://t.me/promoter_alerts_in">Join @promoter_alerts_in &rarr;</a>
   </div>
   <p class="disc">This is a <strong>hypothetical, back-tested portfolio</strong> for illustrative purposes only. It does not represent actual trades or real money. Returns assume entry at the promoter's declared trade price and exit at the T+90 market close; no transaction costs, slippage, or taxes are modelled. Past hypothetical performance does not guarantee future results. This is not investment advice. Data sourced from NSE PIT disclosures and Yahoo Finance.</p>
-  <footer>Updated 01 Jun 2026 &middot; Promoter Alerts India &middot; <a href="sitemap.xml" style="color:#9ca3af">Sitemap</a></footer>
+  <footer>Updated 02 Jun 2026 &middot; Promoter Alerts India &middot; <a href="sitemap.xml" style="color:#9ca3af">Sitemap</a></footer>
 </body>
 </html>
