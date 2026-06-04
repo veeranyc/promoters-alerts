@@ -1,7 +1,7 @@
 [
   {
     "slug": "acutaas-chemicals-limited-promoter-sell-2026-05-29",
-    "title": "ACUTAAS CHEMICALS LIMITED Promoter Sells ₹12 Cr Block",
+    "title": "ACUTAAS CHEMICALS LIMITED Promoter Sells \u20b912 Cr Block",
     "company": "ACUTAAS CHEMICALS LIMITED",
     "symbol": "ACUTAAS",
     "action": "sell",
@@ -10,12 +10,12 @@
     "trade_price": 3090.53,
     "alert_price": 3037.6,
     "published_at": "2026-06-03T06:00:17.517453+05:30",
-    "pct_return": null,
-    "days_elapsed": null
+    "pct_return": 1.46,
+    "days_elapsed": 6
   },
   {
     "slug": "usha-martin-limited-promoter-sell-2026-05-27",
-    "title": "USHA MARTIN LIMITED Promoter Sells ₹3 Cr — First Ever Transaction",
+    "title": "USHA MARTIN LIMITED Promoter Sells \u20b93 Cr \u2014 First Ever Transaction",
     "company": "USHA MARTIN LIMITED",
     "symbol": "USHAMART",
     "action": "sell",
@@ -24,13 +24,13 @@
     "trade_price": 509.34,
     "alert_price": 511.85,
     "published_at": "2026-05-29T06:00:00.392270+05:30",
-    "pct_return": -3.4,
-    "days_elapsed": 7,
+    "pct_return": -2.24,
+    "days_elapsed": 8,
     "t7_written": "2026-06-03"
   },
   {
     "slug": "tata-consumer-products-limited-promoter-sell-2026-05-27",
-    "title": "Tata Consumer Products Limited Promoter Sells ₹3 Cr — First Ever Transaction",
+    "title": "Tata Consumer Products Limited Promoter Sells \u20b93 Cr \u2014 First Ever Transaction",
     "company": "Tata Consumer Products Limited",
     "symbol": "TATACONSUM",
     "action": "sell",
@@ -39,13 +39,13 @@
     "trade_price": 1184.8,
     "alert_price": 1204.6,
     "published_at": "2026-05-28T06:00:24.685850+05:30",
-    "pct_return": -2.54,
-    "days_elapsed": 7,
+    "pct_return": -3.44,
+    "days_elapsed": 8,
     "t7_written": "2026-06-03"
   },
   {
     "slug": "inox-india-limited-promoter-sell-2026-05-22",
-    "title": "INOX INDIA LIMITED Promoter Sells ₹2 Cr — First Ever Transaction",
+    "title": "INOX INDIA LIMITED Promoter Sells \u20b92 Cr \u2014 First Ever Transaction",
     "company": "INOX INDIA LIMITED",
     "symbol": "INOXINDIA",
     "action": "sell",
@@ -54,13 +54,13 @@
     "trade_price": 1456.57,
     "alert_price": 1488.1,
     "published_at": "2026-05-27T06:00:22.756167+05:30",
-    "pct_return": -0.3,
-    "days_elapsed": 12,
+    "pct_return": 1.38,
+    "days_elapsed": 13,
     "t7_written": "2026-05-30"
   },
   {
     "slug": "alembic-pharmaceuticals-limited-promoter-buy-2026-05-22",
-    "title": "Alembic Pharmaceuticals Limited Promoter Buys ₹5 Cr — First Ever Transaction",
+    "title": "Alembic Pharmaceuticals Limited Promoter Buys \u20b95 Cr \u2014 First Ever Transaction",
     "company": "Alembic Pharmaceuticals Limited",
     "symbol": "APLLTD",
     "action": "buy",
@@ -69,13 +69,13 @@
     "trade_price": 757.97,
     "alert_price": 762.3,
     "published_at": "2026-05-26T06:00:17.446027+05:30",
-    "pct_return": -4.28,
-    "days_elapsed": 12,
+    "pct_return": -4.54,
+    "days_elapsed": 13,
     "t7_written": "2026-05-30"
   },
   {
     "slug": "mtar-technologies-limited-promoter-sell-2026-05-21",
-    "title": "MTAR TECHNOLOGIES LIMITED Promoter Sells ₹79 Cr — First Ever Transaction",
+    "title": "MTAR TECHNOLOGIES LIMITED Promoter Sells \u20b979 Cr \u2014 First Ever Transaction",
     "company": "MTAR TECHNOLOGIES LIMITED",
     "symbol": "MTARTECH",
     "action": "sell",
@@ -84,13 +84,13 @@
     "trade_price": 7910.03,
     "alert_price": 8075.5,
     "published_at": "2026-05-24T06:00:17.478081+05:30",
-    "pct_return": -8.77,
-    "days_elapsed": 13,
+    "pct_return": -5.59,
+    "days_elapsed": 14,
     "t7_written": "2026-05-28"
   },
   {
     "slug": "paisalo-digital-limited-promoter-buy-2026-05-20",
-    "title": "PAISALO DIGITAL LIMITED Promoter Buys ₹6 Cr Worth of Shares",
+    "title": "PAISALO DIGITAL LIMITED Promoter Buys \u20b96 Cr Worth of Shares",
     "company": "PAISALO DIGITAL LIMITED",
     "symbol": "PAISALO",
     "action": "buy",
@@ -98,8 +98,8 @@
     "trade_date": "2026-05-20",
     "published_at": "2026-05-21T11:44:20.168371+05:30",
     "trade_price": 47.99,
-    "pct_return": 9.79,
-    "days_elapsed": 14,
+    "pct_return": 12.36,
+    "days_elapsed": 15,
     "t7_written": "2026-05-27"
   }
 ]
