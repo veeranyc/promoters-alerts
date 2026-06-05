@@ -1,7 +1,35 @@
 [
   {
+    "slug": "bajaj-electricals-limited-promoter-buy-2026-06-02",
+    "title": "Bajaj Electricals Limited Promoter Buys ₹30 Cr — First Ever Transaction",
+    "company": "Bajaj Electricals Limited",
+    "symbol": "BAJAJELEC",
+    "action": "buy",
+    "amount_cr": 30.0082,
+    "trade_date": "2026-06-02",
+    "trade_price": 320.6,
+    "alert_price": 303.75,
+    "published_at": "2026-06-05T06:00:42.778314+05:30",
+    "pct_return": null,
+    "days_elapsed": null
+  },
+  {
+    "slug": "bajaj-electricals-limited-promoter-sell-2026-06-02",
+    "title": "Bajaj Electricals Limited Promoter Sells ₹180 Cr — First Ever Transaction",
+    "company": "Bajaj Electricals Limited",
+    "symbol": "BAJAJELEC",
+    "action": "sell",
+    "amount_cr": 179.9788,
+    "trade_date": "2026-06-02",
+    "trade_price": 320.48,
+    "alert_price": 303.75,
+    "published_at": "2026-06-05T06:00:19.553360+05:30",
+    "pct_return": null,
+    "days_elapsed": null
+  },
+  {
     "slug": "niit-learning-systems-limited-promoter-buy-2026-06-01",
-    "title": "NIIT Learning Systems Limited Promoter Buys \u20b92 Cr \u2014 First Ever Transaction",
+    "title": "NIIT Learning Systems Limited Promoter Buys ₹2 Cr — First Ever Transaction",
     "company": "NIIT Learning Systems Limited",
     "symbol": "NIITMTS",
     "action": "buy",
@@ -15,7 +43,7 @@
   },
   {
     "slug": "acutaas-chemicals-limited-promoter-sell-2026-05-29",
-    "title": "ACUTAAS CHEMICALS LIMITED Promoter Sells \u20b912 Cr Block",
+    "title": "ACUTAAS CHEMICALS LIMITED Promoter Sells ₹12 Cr Block",
     "company": "ACUTAAS CHEMICALS LIMITED",
     "symbol": "ACUTAAS",
     "action": "sell",
@@ -30,7 +58,7 @@
   },
   {
     "slug": "usha-martin-limited-promoter-sell-2026-05-27",
-    "title": "USHA MARTIN LIMITED Promoter Sells \u20b93 Cr \u2014 First Ever Transaction",
+    "title": "USHA MARTIN LIMITED Promoter Sells ₹3 Cr — First Ever Transaction",
     "company": "USHA MARTIN LIMITED",
     "symbol": "USHAMART",
     "action": "sell",
@@ -45,7 +73,7 @@
   },
   {
     "slug": "tata-consumer-products-limited-promoter-sell-2026-05-27",
-    "title": "Tata Consumer Products Limited Promoter Sells \u20b93 Cr \u2014 First Ever Transaction",
+    "title": "Tata Consumer Products Limited Promoter Sells ₹3 Cr — First Ever Transaction",
     "company": "Tata Consumer Products Limited",
     "symbol": "TATACONSUM",
     "action": "sell",
@@ -60,7 +88,7 @@
   },
   {
     "slug": "inox-india-limited-promoter-sell-2026-05-22",
-    "title": "INOX INDIA LIMITED Promoter Sells \u20b92 Cr \u2014 First Ever Transaction",
+    "title": "INOX INDIA LIMITED Promoter Sells ₹2 Cr — First Ever Transaction",
     "company": "INOX INDIA LIMITED",
     "symbol": "INOXINDIA",
     "action": "sell",
@@ -75,7 +103,7 @@
   },
   {
     "slug": "alembic-pharmaceuticals-limited-promoter-buy-2026-05-22",
-    "title": "Alembic Pharmaceuticals Limited Promoter Buys \u20b95 Cr \u2014 First Ever Transaction",
+    "title": "Alembic Pharmaceuticals Limited Promoter Buys ₹5 Cr — First Ever Transaction",
     "company": "Alembic Pharmaceuticals Limited",
     "symbol": "APLLTD",
     "action": "buy",
@@ -90,7 +118,7 @@
   },
   {
     "slug": "mtar-technologies-limited-promoter-sell-2026-05-21",
-    "title": "MTAR TECHNOLOGIES LIMITED Promoter Sells \u20b979 Cr \u2014 First Ever Transaction",
+    "title": "MTAR TECHNOLOGIES LIMITED Promoter Sells ₹79 Cr — First Ever Transaction",
     "company": "MTAR TECHNOLOGIES LIMITED",
     "symbol": "MTARTECH",
     "action": "sell",
@@ -105,7 +133,7 @@
   },
   {
     "slug": "paisalo-digital-limited-promoter-buy-2026-05-20",
-    "title": "PAISALO DIGITAL LIMITED Promoter Buys \u20b96 Cr Worth of Shares",
+    "title": "PAISALO DIGITAL LIMITED Promoter Buys ₹6 Cr Worth of Shares",
     "company": "PAISALO DIGITAL LIMITED",
     "symbol": "PAISALO",
     "action": "buy",
